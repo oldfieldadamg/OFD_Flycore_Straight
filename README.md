@@ -42,7 +42,7 @@ exciting blasters!
 **Licensing and
 Production**
 
-· Flycore is license under CC-BY-SA-NC
+· Flycore is license under CC-BY-SA-NC (Full text available here: https://creativecommons.org/licenses/by-nc-sa/2.0/)
 
 · You have permission to print as many as you
 like for yourself, and remix the files in any way
